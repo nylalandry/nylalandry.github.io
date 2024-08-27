@@ -25,6 +25,7 @@ h1 {
 }
 #nav-ul {
     list-style-image: none;
+    color: pink;
 }
 .nav-li {
     display: inline-block;
@@ -37,7 +38,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgba(242, 213, 236, 0.589);
+    background: rgba(255, 149, 234, 0.589);
     display: flex;
 }
 .sidebar {
@@ -59,7 +60,7 @@ img{
 
 /* portfolio styles */
 #interests {
-    border: 4px rgb(255, 255, 255) ridge;
+    border: 4px rgb(255, 179, 249) ridge;
     padding: 8px;
 }
 h2, h3 {
