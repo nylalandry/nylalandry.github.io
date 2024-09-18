@@ -39,13 +39,22 @@ $(function () {
     // You must decide the x position, y position, width, and height of the platforms
     // example usage: createPlatform(x,y,width,height)
     createPlatform(500, 300, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+        createPlatform(400, 200, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+       createPlatform(200, 500 , 300 ,10); // short but wide platform located 300 pixels from the right of the screen and 500 pixels from the bottom of the screen
+       createPlatform(300, 300, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen 
+      createPlatform(700, 200, 300 ,10); // short but wide platform located 300 pixels from the left of the screen and 200 pixels from the top of the screen
 
-       createPlatform(500, 300, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
-   createPlatform(400, 100, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
-   createPlatform(500, 300, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
 
-    
-    // TODO 2
+
+      createPlatform(300, 230, 250, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+
+    createPlatform(230 ,356 ,543,10); // short but wide platform located 300 pixels from the left of the screen and 200 pixels from top of the screen
+
+
+
+createPlatform(400,200,100,40); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+
+    // TODO 2createPlatform(400, 200, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
     // Create collectables
     // You must decide on the collectable type, the x position, the y position, the gravity, and the bounce strength
     // Your collectable choices are 'database' 'diamond' 'grace' 'kennedi' 'max' and 'steve'; more can be added if you wish
