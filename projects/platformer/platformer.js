@@ -52,7 +52,7 @@ $(function () {
 
 
 
-createPlatform(400,200,100,40); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
+createPlatform(400,200,10,150); //
 
     // TODO 2createPlatform(400, 200, 200, 20); // short but wide platform located 500 pixels from the left of the screen and 300 pixels from the top of the screen
     // Create collectables
